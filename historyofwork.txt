@@ -1,0 +1,50 @@
+  909  cd ..
+  910  cd class-assignments/
+  911  pwd
+  912  $PATH
+  913  cd
+  914  pwd
+  915  mkdir scripts
+  916  ls
+  917  cd scripts/
+  918  ls
+  919  mv ~/Desktop/eeb-177/class-assignments/dir.sh .
+  920  ls
+  921  cd 
+  922  gedit .bash_profile
+  923  $PATH
+  924  ls
+  925  cd scripts/
+  926  ls
+  927  ls -a
+  928  ls -l
+  929  chmod u+x dir.sh 
+  930  ls -l
+  931  di
+  932  ls -l
+  933  cd 
+  934  cd Desktop/
+  935  ls
+  936  ./dir.sh
+  937  cd
+  938  ls
+  939  gedit .profile
+  940  sudo reboot
+  941  cd 
+  942  cd scripts/
+  943  git init
+  944  git remote add origin https://github.com/dswong3/scripts.git
+  945  git add dir.sh 
+  946  git add -a
+  947  git add --a
+  948  git commit -m "scripts during class 1-26-17"
+  949  git push
+  950  git push -u origin master
+  951  history
+  952  cd scripts/
+  953  ls
+  954  gedit in_class_script.sh 
+  955  history
+  956  history -50 > historyofwork.txt
+  957* history 50 >> ~/Desktop/scripts/historyofwork.txt
+  958  history 50 > historyofwork.txt
